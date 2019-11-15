@@ -2,7 +2,7 @@ resources:
 - name: repo
   type: git
   source:
-    uri: https://github.com/litemars/CICD_concourse
+    uri: https://github.com/litemars/CICD_concourse.git
 
 jobs:
 - name: task1
