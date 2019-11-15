@@ -11,4 +11,4 @@ inputs:
 
 #Run the script that exists in the resource we requested
 run:
-  path: repo/pipelines/scripts/start.sh
+  path: repo/script/start.sh
