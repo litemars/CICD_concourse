@@ -8,5 +8,5 @@ jobs:
 - name: task1
   plan:
   - get: repo
-  - task: task1
-    file: repo/pipelines/tasks/task.yml
+  - task: test
+    file: repo/tasks/task.yml
