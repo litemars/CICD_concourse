@@ -9,4 +9,4 @@ jobs:
   plan:
   - get: repo
   - task: test
-    file: repo/tasks/task.yml
+    file: repo/task/task.yml
