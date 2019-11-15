@@ -8,5 +8,6 @@ jobs:
 - name: task1
   plan:
   - get: repo
+    trigger: true
   - task: test
     file: repo/task/task.yml
