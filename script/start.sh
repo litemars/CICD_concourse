@@ -11,4 +11,4 @@ done
 
 echo "Finished printing!"
 
-java test.java
+ls -la
