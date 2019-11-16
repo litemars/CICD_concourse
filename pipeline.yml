@@ -5,9 +5,9 @@ resources:
     uri: https://github.com/litemars/CICD_concourse.git
 
 jobs:
-- name: count
+- name: java
   plan:
   - get: repo
     trigger: true
-  - task: count
+  - task: java
     file: repo/task/task.yml
