@@ -12,3 +12,5 @@ inputs:
 #Run the script that exists in the resource we requested
 run:
   path: repo/script/start.sh
+params:
+  u: (("gatttiino"))
