@@ -11,4 +11,4 @@ inputs:
 
 #Run the script that exists in the resource we requested
 run:
-  path: repo/blob/master/script/start.sh
+  path: repo//script/start.sh
