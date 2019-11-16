@@ -13,4 +13,4 @@ inputs:
 run:
   path: repo/script/start.sh
 params:
-  u: (("gatttiino"))
+  u: "gatttiino"

@@ -14,4 +14,4 @@ echo "Finished printing!"
 cd repo
 cd script
 
-java test.java -u ${u}
+java test.java ${u}
