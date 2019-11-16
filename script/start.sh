@@ -11,4 +11,5 @@ done
 
 echo "Finished printing!"
 
+cd repo
 ls -la
