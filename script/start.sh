@@ -10,8 +10,9 @@ do
 done
 
 echo "Finished printing!"
-
+ls
 cd repo
+ls
 cd script
-
+ls
 java test.java ${u}
