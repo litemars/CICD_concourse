@@ -10,25 +10,8 @@ echo "Hello-TD!"
 #done
 
 #echo "Finished printing!"
-ls -R
-echo "find"
-cd repo
-ls -la
-cd test
-ls -la
-cd Task1
-ls -la
-cd src
-ls -la
-cd org
-ls -la
-cd magee
-ls -la
-cd math
-ls -la
-pwd
-cd ../../../../../../
-ls -la
+
+
 cd ./repo/concourse/script
 pwd
 
