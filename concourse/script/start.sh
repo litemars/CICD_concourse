@@ -13,11 +13,7 @@ echo "Hello-TD!"
 
 
 ls -la
-cd repo
-pwd
-cd concourse
-ls -la
-cd script
+cd ..
 ls -la
 
 
