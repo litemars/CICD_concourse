@@ -22,4 +22,4 @@ ls -la
 
 
 
-java -jar TD-test.java
+java -jar TD-test.jar
