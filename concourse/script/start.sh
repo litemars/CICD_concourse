@@ -12,11 +12,8 @@ echo "Hello-TD!"
 #echo "Finished printing!"
 
 
-sudo apt install git
-git clone https://github.com/litemars/TD_test.git
+ls -la
+pwd
 
-ls
-cd TD_test
-ls
 
 java -jar TD-test.java
