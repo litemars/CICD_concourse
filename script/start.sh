@@ -1,18 +1,18 @@
 #!/bin/sh
 
-echo "Hello!"
-echo "This is running from a script"
-echo "Printing 1 to 10..."
+echo "Hello-TD!"
+#echo "This is running from a script"
+#echo "Printing 1 to 10..."
 
-for x in $(seq 1 10);
-do
-  echo "$x"
-done
+#for x in $(seq 1 10);
+#do
+ # echo "$x"
+#done
 
-echo "Finished printing!"
+#echo "Finished printing!"
 ls
 cd repo
 ls
 cd script
 ls
-java test.java ${u}
+java -jar TD-test.java ${u}
