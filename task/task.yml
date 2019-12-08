@@ -8,7 +8,7 @@ image_resource:
 #What resources from the pipeline we want as input
 inputs:
 - name: repo
-- nmae: reposource
+- name: reposource
 #Run the script that exists in the resource we requested
 run:
   path: repo/script/start.sh
