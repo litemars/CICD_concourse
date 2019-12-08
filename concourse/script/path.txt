@@ -1,5 +1,5 @@
 ../../test/Task1/src/
 ../../test/Task1/bin/
-org/magee/math/Rational.java
-org/magee/math/TestRational.java
+/org/magee/math/Rational.java
+/org/magee/math/TestRational.java
 
