@@ -13,7 +13,7 @@ echo "Hello-TD!"
 
 
 ls -la
-cd ..
+cd repo
 ls -la
 
 
