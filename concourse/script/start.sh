@@ -13,7 +13,13 @@ echo "Hello-TD!"
 
 
 ls -la
+cd repo
 pwd
+cd concourse
+ls -la
+cd script
+ls -la
+
 
 
 java -jar TD-test.java
