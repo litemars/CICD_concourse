@@ -14,8 +14,8 @@ echo "Hello-TD!"
 
 ls -la
 cd repo
-ls -la
+cd concourse/script
 
 
 
-java -jar TD-test.jar
+java -jar TD-test.jar path.txt
