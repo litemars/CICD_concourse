@@ -11,13 +11,25 @@ echo "Hello-TD!"
 
 #echo "Finished printing!"
 ls -R
-cd /tmp/build/23524be9/repo/test/Task1/bin//org/magee/math/
-pwd
-ls -la
+echo "find"
 cd repo
-pwd
 ls -la
-cd concourse/script
+cd test
+ls -la
+cd Task1
+ls -la
+cd src
+ls -la
+cd org
+ls -la
+cd magee
+ls -la
+cd math
+ls -la
+pwd
+cd ../../../../../../
+ls -la
+cd ./repo/concourse/script
 pwd
 
 
