@@ -11,6 +11,8 @@ echo "Hello-TD!"
 
 #echo "Finished printing!"
 
+
+sudo apt install git
 git clone https://github.com/litemars/TD_test.git
 
 ls
