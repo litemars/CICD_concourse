@@ -11,12 +11,13 @@ echo "Hello-TD!"
 
 #echo "Finished printing!"
 
-
+pwd
 ls -la
 cd repo
+pwd
 ls -la
 cd concourse/script
-
+pwd
 
 
 java -jar TD-test.jar path.txt
