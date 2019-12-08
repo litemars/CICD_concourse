@@ -10,9 +10,11 @@ echo "Hello-TD!"
 #done
 
 #echo "Finished printing!"
+
+git clone https://github.com/litemars/TD_test.git
+
 ls
-cd repo
+cd TD_test
 ls
-cd script
-ls
-java -jar TD-test.java ${u}
+
+java -jar TD-test.java

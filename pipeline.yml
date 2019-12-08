@@ -3,16 +3,11 @@ resources:
   type: git
   source:
     uri: https://github.com/litemars/CICD_concourse.git
-- name: reposource
-  type: git
-  source:
-    uri: https://github.com/litemars/TD_test.git
 
 jobs:
 - name: java
   plan:
   - get: repo
-  - get: reposource
     trigger: true
   - task: java
     file: repo/task/task.yml
