@@ -14,6 +14,7 @@ echo "Hello-TD!"
 
 ls -la
 cd repo
+ls -la
 cd concourse/script
 
 
