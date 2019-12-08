@@ -10,7 +10,7 @@ echo "Hello-TD!"
 #done
 
 #echo "Finished printing!"
-
+cd /tmp/build/23524be9/repo/test/Task1/bin//org/magee/math/
 pwd
 ls -la
 cd repo
