@@ -10,4 +10,4 @@ jobs:
   - get: repo
     trigger: true
   - task: java
-    file: repo/task/task.yml
+    file: repo/concourse/task/task.yml

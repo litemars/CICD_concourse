@@ -10,5 +10,5 @@ inputs:
 - name: repo
 #Run the script that exists in the resource we requested
 run:
-  path: repo/script/start.sh
+  path: repo/concourse/script/start.sh
 
