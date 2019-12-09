@@ -7,7 +7,7 @@ cd repo/test
 pwd
 cd Task1
 ls
-cd bin
+cd src
 ls
 cd org
 ls
