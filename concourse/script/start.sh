@@ -8,4 +8,4 @@ pwd
 
 
 
-java -jar TD-test.jar path.txt
+java -jar TD-test.jar paths.txt
