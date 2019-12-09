@@ -14,7 +14,9 @@ echo "entro in bin"
 cd bin
 echo "dopo bin"
 pwd
+echo "elenco bin"
 ls
+echo "fine elenco bin"
 cd org
 ls
 cd magee
