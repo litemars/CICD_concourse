@@ -5,9 +5,15 @@ echo "Hello-TD!"
 pwd
 cd repo/test
 pwd
+echo "entro in task"
 cd Task1
+echo "dopo task"
+pwd
 ls
+echo "entro in bin"
 cd bin
+echo "dopo bin"
+pwd
 ls
 cd org
 ls
