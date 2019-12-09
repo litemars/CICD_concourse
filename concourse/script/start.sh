@@ -3,6 +3,6 @@
 echo "Hello-TD!"
 
 pwd
-cd repo/concourse/script
+cd repo/test
 
 java -jar TD-test.jar paths.txt
