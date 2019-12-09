@@ -1,4 +1,4 @@
-./Task1/src
-./Task1/bin
+./Task1/src/
+./Task1/bin/
 org/magee/math/Rational.java
 org/magee/math/TestRational.java
