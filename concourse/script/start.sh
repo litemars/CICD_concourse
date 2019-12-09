@@ -3,7 +3,7 @@
 echo "Hello-TD!"
 
 pwd
-cd repo/concourse/script
+cd repo/test
 pwd
 
 
