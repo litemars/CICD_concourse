@@ -1,6 +1,0 @@
-/tmp/build/23524be9/repo/test/Task1/src/
-/tmp/build/23524be9/repo/test/Task1/bin/
-org/magee/math/Rational.java
-org/magee/math/TestRational.java
-
-
