@@ -6,6 +6,6 @@
 		<class>org/magee/math/Rational.java</class>
 		<testClass>org/magee/math/TestRational.java</testClass>
 	</path>
-	<verbose>false</verbose>
+	<verbose>TRUE</verbose>
 </input>
 
