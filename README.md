@@ -10,3 +10,6 @@ software maintenance and evolution project
 4. press on the link and input the credentials (default test/test) </br>
 5. fly -t conc set-pipeline -c pipeline.yml -p firstpipeline \
    fly -t (name of instance) set-pipeline -c (yml file) -p (name of pipeline)	
+
+
+## TESTs
